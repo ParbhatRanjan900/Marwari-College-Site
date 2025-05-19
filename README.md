@@ -123,7 +123,7 @@ Tested and works on:
 ---
 ## License
 
-This project is licensed under the [MIT License](LICENSE).  
+This project is licensed under the [MIT License](LICENSE.txt).  
 You are free to use, modify, and distribute this site in compliance with the license terms.
 
 
