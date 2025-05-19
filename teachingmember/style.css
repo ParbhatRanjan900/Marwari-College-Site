@@ -1,0 +1,10 @@
+body{background-color:#b9b5b5;}
+#page{float:left;width:75%;height:auto; background-color:white;margin-left:12.5%;margin-top:10px;}
+#margin{float:left;width:96%;height:82%;margin-left:2%;margin-top:20px;margin-bottom:20px;border:1px solid black;}
+#photo{width:200px;height:210px;border:1px solid grey;margin:0 auto;margin-top:40px}
+h1,h2,h4{margin:0;padding:0;text-align:center;}
+h2,h4{font-weight:normal;}
+table{margin:0;padding:0;width:100%;height:100%;margin-top:70px;font-size:17px;font-family:Arial, Helvetica, sans-serif;}
+#left{width:40%;text-align:right;font-weight:bold;}
+#right{width:60%;text-align:left;}
+#hr{border:1px solid rgb(73, 71, 71);width:80%}
